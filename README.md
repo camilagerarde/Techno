@@ -1,4 +1,16 @@
 # Techno
+
+Projeto desenvolvido durante o curso de Vue.js da Origamid.
+
+**Tecnologias**
+- Vue.js
+- Vue CLI
+- Vue Router
+- CSS3
+- Babel
+- Eslint
+
+
 ## Project setup
 ```
 npm install
